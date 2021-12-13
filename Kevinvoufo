@@ -1,0 +1,47 @@
+<!DocTYPEhtml>
+<html>
+<head>
+<meta charset="utp_8/">
+meta name="description"cotent="ol">
+<title> Ma page web </title>
+</head>
+<body>
+<table border = "2">
+<tr>
+<p> presentation </p>
+</tr>
+<tr>
+<td> photo </td>
+<img src = "stoltage/emalue lated"/>
+<h1><font color = "write"> information personelle
+</h1> </tr>
+<tr>
+<td> Nom </td>
+<td> TAKOUEZEM DE VOUFO </td>
+</tr>
+<tr>
+<td> Prenom </td>
+<td> KEVIN </td>
+</tr>
+<tr>
+<td> Né le </td>
+<td> 07-04-2004 </td>
+</tr>
+<tr>
+<td> Lieu </td>
+<td> Bonaberi </td>
+</tr>
+<tr>
+<td> Matricule </td>
+<td> 21s57289 </td>
+</tr>
+<tr>
+<td> Filiere </td>
+<td> Informatique </td>
+</tr>
+<tr>
+<td> Niveau </td>
+<td> Licence 1 </td>
+</tr>
+<p> Rendez-vous sur <a href="http://www.googlechrome.com" > google chrome </a></p>
+</html>
